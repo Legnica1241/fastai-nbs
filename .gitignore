@@ -5,3 +5,4 @@ gallic_roman.txt
 .ipynb_checkpoints/rome_or_greek-checkpoint.ipynb
 models/stage_1.pth
 *.jpg
+models/stage_1_after train_mnist.pth
